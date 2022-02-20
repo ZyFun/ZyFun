@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h1 align="center">Всем привет! Я <a href="https://vk.com/zyfun" target="_blank">Дмитрий</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">iOS-разработчик из Москвы 🇷🇺</h3>
+
+<br/>
+<br/>
+
+
 
 <!--
 **ZyFun/ZyFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
