@@ -1,12 +1,25 @@
 <h1 align="Center">🚧 Идет наполнение информацией 🚧</a></h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zyfuns/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='25'>](https://t.me/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='25'>](https://vk.com/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/zyfuns/) 
 
 Привет! Я начинающий iOS-разработчик из Москвы 🇷🇺. <br/>
-На данный момент, учусь в школе Тинькофф Финтех.
+Первое время учился всему самостоятельно. После чего, решил пойти на курсы для структурирования своих знаний. <br/>
+На данный момент, учусь в школе [Тинькофф Финтех](https://fintech.tinkoff.ru/study/fintech/ios/).
 
+## Образование
+**РосНОУ** <br/>
+**Факультет:** Информационных систем и компьютерных технологий <br/>
+**Кафедра:**  Информационной безопасности. <br/>
+Не окончил высшее образование. <br/>
+*Сентябрь 2008—Декабрь 2011 (3 года и 3 месяца)*
 
-  
+## Обучение разработке
+Обучение в школе [SwiftBook.ru](https://swiftbook.ru) <br/>
+*Август 2021 - Февраль 2022*
+
+Обучение в школе [Тинькофф Финтех](https://fintech.tinkoff.ru/study/fintech/ios/) <br/>
+*Февраль 2022 - по текущее время*
+
 ## Языки и инструменты
   
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
