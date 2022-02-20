@@ -11,8 +11,19 @@
   
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   
-  UIKit, URLSession, CoreData, Realm
-  
+  ![Git](https://img.shields.io/badge/Git-70%25-green)
+  <br/>
+  ![UIKit](https://img.shields.io/badge/UIKit-70%25-green)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-5%25-red)
+  <br/>
+  ![URLSession](https://img.shields.io/badge/URLSession-40%25-yellowgreen)
+  ![Alamofire](https://img.shields.io/badge/Alamofire-20%25-red)
+  <br/>
+  ![CoreData](https://img.shields.io/badge/CoreData-55%25-yellowgreen)
+  ![Realm](https://img.shields.io/badge/Realm-30%25-orange) 
+  <br/>
+  ![MVC](https://img.shields.io/badge/MVC-80%25-green)
+  ![VIPER](https://img.shields.io/badge/VIPER-40%25-yellowgreen)
   
   
   
