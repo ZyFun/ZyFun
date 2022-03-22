@@ -29,6 +29,9 @@
   ![UIKit](https://img.shields.io/badge/UIKit-70%25-green)
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-5%25-red)
   <br/>
+  ![GCD](https://img.shields.io/badge/GCD-40%25-yellowgreen)
+  ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
+  <br/>
   ![URLSession](https://img.shields.io/badge/URLSession-40%25-yellowgreen)
   ![Alamofire](https://img.shields.io/badge/Alamofire-20%25-red)
   <br/>
