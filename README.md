@@ -36,7 +36,8 @@
   ![Alamofire](https://img.shields.io/badge/Alamofire-20%25-red)
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-55%25-yellowgreen)
-  ![Realm](https://img.shields.io/badge/Realm-30%25-orange) 
+  ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
+  ![Firebase](https://img.shields.io/badge/Firebase-10%25-red) 
   <br/>
   ![MVC](https://img.shields.io/badge/MVC-80%25-green)
   ![VIPER](https://img.shields.io/badge/VIPER-40%25-yellowgreen)
