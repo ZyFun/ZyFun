@@ -39,8 +39,8 @@
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
   ![Firebase](https://img.shields.io/badge/Firebase-10%25-red) 
   <br/>
-  ![MVC](https://img.shields.io/badge/MVC-80%25-green)
-  ![VIPER](https://img.shields.io/badge/VIPER-40%25-yellowgreen)
+  ![MVC](https://img.shields.io/badge/MVC-40%25-yellowgreen)
+  ![VIPER](https://img.shields.io/badge/VIPER-30%25-orange)
   <br/>
   ![Figma](https://img.shields.io/badge/Figma-30%25-orange)
   
