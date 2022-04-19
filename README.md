@@ -1,4 +1,4 @@
-<h1 align="Center">🚧 Идет наполнение информацией 🚧</a></h1>
+<h1 align="Center">🚧 Идет создание разработчика 🚧</a></h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='25'>](https://t.me/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='25'>](https://vk.com/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/zyfuns/) 
 
