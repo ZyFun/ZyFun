@@ -45,8 +45,8 @@
   ![UI Testing](https://img.shields.io/badge/UI_Testing-15%25-red)
   ![Unit Testing](https://img.shields.io/badge/Unit_Testing-15%25-red) 
   <br/>
-  ![MVC](https://img.shields.io/badge/MVC-40%25-yellowgreen)
-  ![VIPER](https://img.shields.io/badge/VIPER-30%25-orange)
+  ![MVC](https://img.shields.io/badge/MVC-70%25-green)
+  ![VIPER](https://img.shields.io/badge/VIPER-60%25-yellowgreen)
   <br/>
   ![Figma](https://img.shields.io/badge/Figma-30%25-orange)
   
