@@ -34,6 +34,7 @@
   <br/>
   ![URLSession](https://img.shields.io/badge/URLSession-40%25-yellowgreen)
   ![Alamofire](https://img.shields.io/badge/Alamofire-20%25-red)
+  ![GraphQl](https://img.shields.io/badge/GraphQl-30%25-orange)
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
