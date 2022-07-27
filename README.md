@@ -37,8 +37,9 @@
   ![GraphQl](https://img.shields.io/badge/GraphQl-30%25-orange)
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
+  ![Keychain](https://img.shields.io/badge/Keychain-10%25-red)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
-  ![Firebase](https://img.shields.io/badge/Firebase-10%25-red) 
+  ![Firebase](https://img.shields.io/badge/Firebase-10%25-red)
   <br/>
   ![CI/CD](https://img.shields.io/badge/CI/CD-10%25-red)
   ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red) 
