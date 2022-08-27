@@ -24,7 +24,7 @@
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   
   ![Git](https://img.shields.io/badge/Git-70%25-green)
-  ![GitFlow](https://img.shields.io/badge/GitFlow-80%25-green)
+  ![GitFlow](https://img.shields.io/badge/GitFlow-80%25-brightgreen)
   <br/>
   ![UIKit](https://img.shields.io/badge/UIKit-70%25-green)
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-5%25-red)
@@ -32,8 +32,8 @@
   ![GCD](https://img.shields.io/badge/GCD-50%25-yellowgreen)
   ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
   <br/>
-  ![URLSession](https://img.shields.io/badge/URLSession-40%25-yellowgreen)
-  ![Alamofire](https://img.shields.io/badge/Alamofire-20%25-red)
+  ![URLSession](https://img.shields.io/badge/URLSession-40%25-yellow)
+  ![Alamofire](https://img.shields.io/badge/Alamofire-15%25-red)
   ![GraphQl](https://img.shields.io/badge/GraphQl-30%25-orange)
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
@@ -44,7 +44,7 @@
   ![CI/CD](https://img.shields.io/badge/CI/CD-10%25-red)
   ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red) 
   ![UI Testing](https://img.shields.io/badge/UI_Testing-15%25-red)
-  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-20%25-red) 
+  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-20%25-orange) 
   <br/>
   ![MVC](https://img.shields.io/badge/MVC-70%25-green)
   ![VIPER](https://img.shields.io/badge/VIPER-75%25-green)
