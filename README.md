@@ -50,6 +50,7 @@
   ![Unit Testing](https://img.shields.io/badge/Unit_Testing-20%25-orange) 
   <br/>
   ![MVC](https://img.shields.io/badge/MVC-70%25-green)
+  ![MVP](https://img.shields.io/badge/MVP-70%25-green)
   ![VIPER](https://img.shields.io/badge/VIPER-75%25-green)
   ![SOA](https://img.shields.io/badge/SOA-70%25-green)
   <br/>
