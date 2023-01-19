@@ -40,7 +40,7 @@
   ![GraphQl](https://img.shields.io/badge/GraphQl-30%25-orange)
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
-  ![Keychain](https://img.shields.io/badge/Keychain-5%25-red)
+  ![Keychain](https://img.shields.io/badge/Keychain-30%25-orange)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
   ![Firebase](https://img.shields.io/badge/Firebase-10%25-red)
   <br/>
