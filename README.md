@@ -29,7 +29,7 @@
   ![Git](https://img.shields.io/badge/Git-90%25-brightgreen)
   ![GitFlow](https://img.shields.io/badge/GitFlow-90%25-brightgreen)
   <br/>
-  ![UIKit](https://img.shields.io/badge/UIKit-70%25-green)
+  ![UIKit](https://img.shields.io/badge/UIKit-80%25-brightgreen)
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-5%25-red)
   <br/>
   ![GCD](https://img.shields.io/badge/GCD-50%25-yellowgreen)
@@ -42,16 +42,16 @@
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
   ![Keychain](https://img.shields.io/badge/Keychain-30%25-orange)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
-  ![Firebase](https://img.shields.io/badge/Firebase-10%25-red)
+  ![Firebase](https://img.shields.io/badge/Firebase-15%25-red)
   <br/>
   ![CI/CD](https://img.shields.io/badge/CI/CD-10%25-red)
   ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red) 
-  ![UI Testing](https://img.shields.io/badge/UI_Testing-15%25-red)
-  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-20%25-orange) 
+  ![UI Testing](https://img.shields.io/badge/UI_Testing-30%25-orange)
+  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-40%25-yellow) 
   <br/>
-  ![MVC](https://img.shields.io/badge/MVC-70%25-green)
-  ![MVP](https://img.shields.io/badge/MVP-70%25-green)
-  ![VIPER](https://img.shields.io/badge/VIPER-75%25-green)
+  ![MVC](https://img.shields.io/badge/MVC-80%25-brightgreen)
+  ![MVP](https://img.shields.io/badge/MVP-80%25-brightgreen)
+  ![VIPER](https://img.shields.io/badge/VIPER-85%25-brightgreen)
   ![SOA](https://img.shields.io/badge/SOA-70%25-green)
   <br/>
   ![Figma](https://img.shields.io/badge/Figma-30%25-orange)
