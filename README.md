@@ -51,6 +51,7 @@
   ![MVC](https://img.shields.io/badge/MVC-80%25-brightgreen)
   ![MVP](https://img.shields.io/badge/MVP-80%25-brightgreen)
   ![VIPER](https://img.shields.io/badge/VIPER-85%25-brightgreen)
+  ![MVVM](https://img.shields.io/badge/VIPER-5%25-red)
   ![SOA](https://img.shields.io/badge/SOA-70%25-green)
   <br/>
   ![Figma](https://img.shields.io/badge/Figma-30%25-orange)
