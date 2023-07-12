@@ -31,7 +31,7 @@
   ![UIKit](https://img.shields.io/badge/UIKit-80%25-brightgreen)
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-5%25-red)
   <br/>
-  ![GCD](https://img.shields.io/badge/GCD-50%25-yellowgreen)
+  ![GCD](https://img.shields.io/badge/GCD-70%25-green)
   ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
   <br/>
   ![URLSession](https://img.shields.io/badge/URLSession-40%25-yellow)
@@ -53,7 +53,7 @@
   ![MVP](https://img.shields.io/badge/MVP-80%25-brightgreen)
   ![VIPER](https://img.shields.io/badge/VIPER-85%25-brightgreen)
   ![MVVM](https://img.shields.io/badge/MVVM-5%25-red)
-  ![SOA](https://img.shields.io/badge/SOA-70%25-green)
+  ![SOA](https://img.shields.io/badge/SOA-75%25-green)
   <br/>
   ![Figma](https://img.shields.io/badge/Figma-30%25-orange)
   
