@@ -40,6 +40,7 @@
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
   ![Keychain](https://img.shields.io/badge/Keychain-30%25-orange)
+  ![SQLite](https://img.shields.io/badge/SQLite-30%25-orange)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
   ![Firebase](https://img.shields.io/badge/Firebase-15%25-red)
   <br/>
