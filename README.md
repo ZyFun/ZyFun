@@ -22,6 +22,9 @@
 Обучение в школе [Тинькофф Финтех](https://fintech.tinkoff.ru/study/fintech/ios/) <br/>
 *Февраль 2022 - Май 2022 (3 месяца)*
 
+Обучение в школе [Яндекс Академия](https://yandex.ru/yaintern/schools/mobile) <br/>
+*Июнь 2023 - в процессе*
+
 ## Языки и инструменты
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   
