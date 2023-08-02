@@ -32,7 +32,7 @@
   ![GitFlow](https://img.shields.io/badge/GitFlow-90%25-brightgreen)
   <br/>
   ![UIKit](https://img.shields.io/badge/UIKit-80%25-brightgreen)
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-5%25-red)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-25%25-red)
   <br/>
   ![GCD](https://img.shields.io/badge/GCD-70%25-green)
   ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
