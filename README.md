@@ -35,8 +35,8 @@
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-35%25-orange)
   <br/>
   ![GCD](https://img.shields.io/badge/GCD-70%25-green)
+  ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-45%25-yellow)
   ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
-  ![Swift Concurrency](https://img.shields.io/badge/Operation-45%25-yellow)
   <br/>
   ![URLSession](https://img.shields.io/badge/URLSession-45%25-yellow)
   ![Alamofire](https://img.shields.io/badge/Alamofire-15%25-red)
