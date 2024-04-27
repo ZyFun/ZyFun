@@ -32,17 +32,18 @@
   ![GitFlow](https://img.shields.io/badge/GitFlow-90%25-brightgreen)
   <br/>
   ![UIKit](https://img.shields.io/badge/UIKit-80%25-brightgreen)
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-25%25-red)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-35%25-orange)
   <br/>
   ![GCD](https://img.shields.io/badge/GCD-70%25-green)
   ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
+  ![Swift Concurrency](https://img.shields.io/badge/Operation-45%25-yellow)
   <br/>
-  ![URLSession](https://img.shields.io/badge/URLSession-40%25-yellow)
+  ![URLSession](https://img.shields.io/badge/URLSession-45%25-yellow)
   ![Alamofire](https://img.shields.io/badge/Alamofire-15%25-red)
   ![GraphQl](https://img.shields.io/badge/GraphQl-30%25-orange)
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
-  ![Keychain](https://img.shields.io/badge/Keychain-30%25-orange)
+  ![Keychain](https://img.shields.io/badge/Keychain-35%25-orange)
   ![SQLite](https://img.shields.io/badge/SQLite-30%25-orange)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
   ![Firebase](https://img.shields.io/badge/Firebase-15%25-red)
@@ -55,10 +56,10 @@
   ![MVC](https://img.shields.io/badge/MVC-80%25-brightgreen)
   ![MVP](https://img.shields.io/badge/MVP-80%25-brightgreen)
   ![VIPER](https://img.shields.io/badge/VIPER-85%25-brightgreen)
-  ![MVVM](https://img.shields.io/badge/MVVM-5%25-red)
+  ![MVVM](https://img.shields.io/badge/MVVM-45%25-yellow)
   ![SOA](https://img.shields.io/badge/SOA-75%25-green)
   <br/>
-  ![Figma](https://img.shields.io/badge/Figma-30%25-orange)
+  ![Figma](https://img.shields.io/badge/Figma-35%25-orange)
   
   
   
