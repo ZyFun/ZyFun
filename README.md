@@ -1,13 +1,12 @@
-<h1 align="Center">🚧 Идет обновление разработчика 🚧</a></h1>
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='25'>](https://t.me/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='25'>](https://vk.com/zyfun)
 
 Привет! Я iOS-разработчик из Москвы 🇷🇺. <br/>
 Работаю в IT с 2008 года. Опыт коммерческой разработки iOS приложений с 2021 года. <br/>
 
 ## Приложения в AppStore
-- [Аптечка в кармане](https://apps.apple.com/ru/app/аптечка-в-кармане/id1611315301)
-- [Найди выход](https://apps.apple.com/ru/app/найди-выход/id6447462366)
+- [Аптечка в кармане](https://apps.apple.com/ru/app/аптечка-в-кармане/id1611315301) – список лекарств в аптечках и трекер срока годности
+- [Найди выход](https://apps.apple.com/ru/app/найди-выход/id6447462366) – образовательное приложение по выжыванию в экстремальных условиях
+- Столички (релиз близко) – сеть аптек в России
 
 ## Образование
 **РосНОУ** <br/>
@@ -15,7 +14,7 @@
 **Кафедра:**  Информационной безопасности. <br/>
 *Сентябрь 2008—Декабрь 2011 (3 года и 3 месяца)*
 
-## Дополнительное образование
+### Дополнительное образование
 Обучение в школе [SwiftBook.ru](https://swiftbook.ru) <br/>
 *Август 2021 - Февраль 2022 (6 месяцев)*
 
@@ -32,23 +31,23 @@
   ![GitFlow](https://img.shields.io/badge/GitFlow-90%25-brightgreen)
   <br/>
   ![UIKit](https://img.shields.io/badge/UIKit-80%25-brightgreen)
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-35%25-orange)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-70%25-green)
   <br/>
   ![GCD](https://img.shields.io/badge/GCD-70%25-green)
-  ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-45%25-yellow)
+  ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-70%25-green)
   ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
   <br/>
-  ![URLSession](https://img.shields.io/badge/URLSession-45%25-yellow)
+  ![URLSession](https://img.shields.io/badge/URLSession-55%25-green)
   ![Alamofire](https://img.shields.io/badge/Alamofire-15%25-red)
   ![GraphQl](https://img.shields.io/badge/GraphQl-30%25-orange)
   <br/>
   ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
-  ![Keychain](https://img.shields.io/badge/Keychain-35%25-orange)
+  ![Keychain](https://img.shields.io/badge/Keychain-45%25-yellow)
   ![SQLite](https://img.shields.io/badge/SQLite-30%25-orange)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
   ![Firebase](https://img.shields.io/badge/Firebase-15%25-red)
   <br/>
-  ![CI/CD](https://img.shields.io/badge/CI/CD-10%25-red)
+  ![CI/CD](https://img.shields.io/badge/CI/CD-30%25-orange)
   ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red) 
   ![UI Testing](https://img.shields.io/badge/UI_Testing-30%25-orange)
   ![Unit Testing](https://img.shields.io/badge/Unit_Testing-40%25-yellow) 
@@ -56,10 +55,10 @@
   ![MVC](https://img.shields.io/badge/MVC-80%25-brightgreen)
   ![MVP](https://img.shields.io/badge/MVP-80%25-brightgreen)
   ![VIPER](https://img.shields.io/badge/VIPER-85%25-brightgreen)
-  ![MVVM](https://img.shields.io/badge/MVVM-45%25-yellow)
+  ![MVVM](https://img.shields.io/badge/MVVM-80%25-brightgreen)
   ![SOA](https://img.shields.io/badge/SOA-75%25-green)
   <br/>
-  ![Figma](https://img.shields.io/badge/Figma-35%25-orange)
+  ![Figma](https://img.shields.io/badge/Figma-40%25-yellow)
   
   
   
