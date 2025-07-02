@@ -30,8 +30,8 @@
   ![Git](https://img.shields.io/badge/Git-90%25-brightgreen)
   ![GitFlow](https://img.shields.io/badge/GitFlow-90%25-brightgreen)
   <br/>
-  ![UIKit](https://img.shields.io/badge/UIKit-90%25-brightgreen)
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-70%25-green)
+  ![UIKit](https://img.shields.io/badge/UIKit-80%25-brightgreen)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-80%25-brightgreen)
   <br/>
   ![GCD](https://img.shields.io/badge/GCD-70%25-green)
   ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-70%25-green)
