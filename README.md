@@ -46,7 +46,7 @@
   ![Keychain](https://img.shields.io/badge/Keychain-45%25-yellow)
   ![SQLite](https://img.shields.io/badge/SQLite-30%25-orange)
   ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
-  ![Firebase](https://img.shields.io/badge/Firebase-15%25-red)
+  ![Firebase](https://img.shields.io/badge/Firebase-35%25-orange)
   <br/>
   ![CI/CD](https://img.shields.io/badge/CI/CD-30%25-orange)
   ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red) 
