@@ -49,7 +49,8 @@
   ![Firebase](https://img.shields.io/badge/Firebase-45%25-yellow)
   <br/>
   ![CI/CD](https://img.shields.io/badge/CI/CD-30%25-orange)
-  ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red) 
+  ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red)
+  ![Snapshot_Testing](https://img.shields.io/badge/Snapshot_Testing-40%25-yellow)
   ![UI Testing](https://img.shields.io/badge/UI_Testing-30%25-orange)
   ![Unit Testing](https://img.shields.io/badge/Unit_Testing-40%25-yellow) 
   <br/>
