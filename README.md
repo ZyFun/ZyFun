@@ -1,64 +1,92 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='25'>](https://t.me/zyfun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='25'>](https://vk.com/zyfun)
+# Привет! Я iOS-разработчик.
 
-Привет! Я iOS-разработчик из Москвы 🇷🇺. <br/>
-Специализируюсь на Swift, SwiftUI, архитектуре и построении сложных клиентских систем.<br/><br/>
-Работаю в IT с 2008 года. Опыт в iOS с 2021 года. Разрабатывал крупные коммерческие проекты, учавствую в проектировании архитектуры, CI/CD, оптимизации производительности и внедрении современных практик Swift Concurrency. Сейчас работаю в компании неофарм над проектом аптек столички, в небольшой команде из 3 ios разработчиков. <br/>
+**Swift · SwiftUI · UIKit · Москва**
 
-## Приложения в AppStore
-- [Аптечка в кармане](https://apps.apple.com/ru/app/аптечка-в-кармане/id1611315301) – список лекарств в аптечках и трекер срока годности *(личный проект)*
-- [Найди выход](https://apps.apple.com/ru/app/найди-выход/id6447462366) – образовательное приложение по выжыванию в экстремальных условиях
-- [Столички](https://apps.apple.com/ru/app/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0-%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%BA%D0%B8/id1384860237) – сеть аптек в России
-- Неофарм – сеть аптек в России (в стадии разработки, реализация на основе WebView)
+[Telegram](https://t.me/zyfun) · [VK](https://vk.com/zyfun)
+
+В IT с 2008 года, в iOS-разработке — с 2021. Разрабатываю коммерческие приложения и собственные продукты: от архитектуры и интерфейса до публикации и дальнейшего развития.
+
+Работаю в ГК «Неофарм» над приложением «Столички» в команде из трёх iOS-разработчиков. Помимо продуктовых задач, занимаюсь архитектурой, оптимизацией производительности и автоматизацией сборки и тестирования.
+
+Параллельно развиваю личный проект «Аптечка в кармане» — приложение для хранения списков лекарств, контроля сроков годности и совместного использования семейных аптечек.
+
+## Инженерный опыт
+
+- **Миграция на Swift 6.** Перевёл коммерческий проект на Swift 6. Работаю с асинхронным кодом на основе Swift Concurrency.
+
+- **Архитектура приложения.** Разработал собственный подход к организации модулей с однонаправленным потоком данных, явным управлением состоянием и разделением ответственности взяв лучшее из TCA. Подготовил шаблоны и документацию для разработки новых экранов.
+
+- **Оптимизация сетевого взаимодействия.** Внедрил HTTP-кэширование для сокращения повторных запросов и ускорения загрузки данных. Реализовал адаптивный debounce для поиска.
+
+- **Автоматизация разработки.** Настроил GitLab CI на macOS-раннере: автоматическую сборку приложения, запуск тестов, сохранение логов и результатов тестирования.
+
+- **Локальное хранение данных.** Выполнил миграцию с Realm на Core Data. Разрабатываю сервисы для работы с локальными данными, Keychain и UserDefaults.
+
+## Проекты и приложения
+
+### Аптечка в кармане
+
+**Личный проект · [App Store](https://apps.apple.com/ru/app/аптечка-в-кармане/id1611315301)**
+
+Приложение для организации домашних аптечек: списки лекарств, контроль сроков годности и совместный доступ к семейным аптечкам.
+
+Самостоятельно занимаюсь архитектурой, разработкой интерфейса и функциональности, хранением данных, публикацией и выпуском обновлений.
+
+Для совместных аптечек использую Firebase Authentication и Cloud Firestore, для управления доступностью функций — Firebase Remote Config.
+
+### Столички
+
+**Коммерческий проект · [App Store](https://apps.apple.com/ru/app/аптека-столички/id1384860237)**
+
+Приложение российской сети аптек.
+
+Участвую в разработке продуктовых функций и развитии технической основы приложения: проектировании архитектуры, оптимизации сетевого взаимодействия и работы с данными, обновлении стека и автоматизации сборки и тестирования.
+
+### Найди выход
+
+**[App Store](https://apps.apple.com/ru/app/найди-выход/id6447462366)**
+
+Образовательное приложение по выживанию в экстремальных условиях. Один из первых крупных командных проектов.
+
+### Неофарм
+
+**Коммерческий проект · В разработке**
+
+Приложение аптечной сети с реализацией на основе WebView.
+
+## Технологии и инструменты
+
+| Направление | Технологии |
+| --- | --- |
+| Язык и интерфейс | Swift, SwiftUI, UIKit |
+| Многопоточность | Swift Concurrency, GCD |
+| Сеть | URLSession, HTTP-кэширование |
+| Локальные данные | Core Data, Keychain, UserDefaults |
+| Firebase | Authentication, Cloud Firestore, Remote Config |
+| Архитектура | Модульный подход, однонаправленный поток данных, MVVM, VIPER |
+| Тестирование | XCTest, Swift Testing, unit-тесты, UI-тесты, snapshot-тесты |
+| Инструменты разработки | Xcode, Git, GitLab CI |
+
+## Подход к разработке
+
+Предпочитаю понятную архитектуру с явными зависимостями и чётким разделением ответственности. Выбираю решения под задачи продукта и команды, а не ради использования определённого паттерна или библиотеки.
+
+Считаю частью разработки не только реализацию функции, но и её дальнейшее сопровождение: тестирование, диагностику ошибок и документацию.
 
 ## Образование
-**РосНОУ** <br/>
-**Факультет:** Информационных систем и компьютерных технологий <br/>
-**Кафедра:**  Информационной безопасности. <br/>
-*Сентябрь 2008—Декабрь 2011 (3 года и 3 месяца)*
 
-### Дополнительное образование
-Обучение в школе [SwiftBook.ru](https://swiftbook.ru) <br/>
-*Август 2021 - Февраль 2022 (6 месяцев)*
+**Школа мобильной разработки Яндекса — 2023**  
+Обучение iOS-разработке и работа над фичей для Yango.
 
-Обучение в школе [Тинькофф Финтех](https://fintech.tinkoff.ru/study/fintech/ios/) <br/>
-*Февраль 2022 - Май 2022 (3 месяца)*
+**Тинькофф Финтех — 2022**  
+Обучение iOS-разработке.
 
-Обучение в [летней школе яндекса (Школа мобильной разработки)](https://yandex.ru/yaintern/schools/mobile) <br/>
-*Июнь 2023 - Август 2023 (2 месяца обучение и 1 месяц работы над фичей для Yango)*
+**SwiftBook — 2021–2022**  
+Обучение iOS-разработке.
 
-## Языки и инструменты
-  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-  
-  ![Git](https://img.shields.io/badge/Git-90%25-brightgreen)
-  ![GitFlow](https://img.shields.io/badge/GitFlow-90%25-brightgreen)
-  <br/>
-  ![UIKit](https://img.shields.io/badge/UIKit-80%25-brightgreen)
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-80%25-brightgreen)
-  <br/>
-  ![GCD](https://img.shields.io/badge/GCD-70%25-green)
-  ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-70%25-green)
-  ![Operation](https://img.shields.io/badge/Operation-30%25-orange)
-  <br/>
-  ![URLSession](https://img.shields.io/badge/URLSession-55%25-green)
-  ![Alamofire](https://img.shields.io/badge/Alamofire-15%25-red)
-  ![GraphQl](https://img.shields.io/badge/GraphQl-30%25-orange)
-  <br/>
-  ![CoreData](https://img.shields.io/badge/CoreData-75%25-green)
-  ![Keychain](https://img.shields.io/badge/Keychain-45%25-yellow)
-  ![SQLite](https://img.shields.io/badge/SQLite-30%25-orange)
-  ![Realm](https://img.shields.io/badge/Realm-30%25-orange)
-  ![Firebase](https://img.shields.io/badge/Firebase-45%25-yellow)
-  <br/>
-  ![CI/CD](https://img.shields.io/badge/CI/CD-30%25-orange)
-  ![Fastlane](https://img.shields.io/badge/Fastlane-10%25-red)
-  ![Snapshot_Testing](https://img.shields.io/badge/Snapshot_Testing-40%25-yellow)
-  ![UI Testing](https://img.shields.io/badge/UI_Testing-30%25-orange)
-  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-40%25-yellow) 
-  <br/>
-  ![MVC](https://img.shields.io/badge/MVC-80%25-brightgreen)
-  ![MVP](https://img.shields.io/badge/MVP-80%25-brightgreen)
-  ![VIPER](https://img.shields.io/badge/VIPER-85%25-brightgreen)
-  ![MVVM](https://img.shields.io/badge/MVVM-80%25-brightgreen)
-  ![SOA](https://img.shields.io/badge/SOA-75%25-green)
-  <br/>
-  ![Figma](https://img.shields.io/badge/Figma-40%25-yellow)
+**РосНОУ — 2008–2011**  
+Обучение на факультете информационных систем и компьютерных технологий, кафедра информационной безопасности.
+
+## Связаться со мной
+
+Для обсуждения проектов и технических вопросов: [Telegram — @zyfun](https://t.me/zyfun).
